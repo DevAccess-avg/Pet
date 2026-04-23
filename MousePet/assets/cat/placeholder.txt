@@ -1,0 +1,2 @@
+This folder contains generated cat animation frames.
+Replace this with your own sprite frames or let the app generate them.
